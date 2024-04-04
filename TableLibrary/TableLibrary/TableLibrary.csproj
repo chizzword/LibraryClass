@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+  <TargetFramework>netstandard2.0</TargetFramework>
+  <PackageId>LibraryClass</PackageId>
+  <Version>1.0.0</Version>
+  <Authors>chizzword</Authors>
+  <Company>Alekseev I502B</Company>
+  <Description>Class library for tree data structures, as well as tables and lists.</Description>
+  <PackageTags>C#</PackageTags>
+</PropertyGroup>
+
+
+</Project>

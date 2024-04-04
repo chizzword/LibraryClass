@@ -1,0 +1,11 @@
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\bin\Debug\net8.0\TableLibrary.deps.json
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\bin\Debug\net8.0\TableLibrary.dll
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\bin\Debug\net8.0\TableLibrary.pdb
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\TableLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\TableLibrary.AssemblyInfoInputs.cache
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\TableLibrary.AssemblyInfo.cs
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\TableLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\TableLibrary.dll
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\refint\TableLibrary.dll
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\TableLibrary.pdb
+C:\Users\chizz\source\repos\TableLibrary\TableLibrary\obj\Debug\net8.0\ref\TableLibrary.dll
